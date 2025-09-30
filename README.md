@@ -30,5 +30,5 @@ strategic decisions.
 
 ## 📂 File
 
--   `Desafio_PowerBI_financial.pbix` → Power BI dashboard.
--   `Desafio_PowerBI_financial.pdf` → Exported version for quick view.
+-   `Financial-Sales-Dashboard.pbix` → Power BI dashboard.
+-   `Financial-Sales-Dashboard.pdf` → Exported version for quick view.
