@@ -10,25 +10,25 @@ strategic decisions.
 ## 🔎 Key Insights
 
 -   **Sales by Product & Segment** → Track performance and pricing
-    trends.\
+    trends.
 -   **Sales & Profit by Country** → Compare regional results and
-    profitability.\
--   **Profit by Segment** → Identify the most valuable customer groups.\
+    profitability.
+-   **Profit by Segment** → Identify the most valuable customer groups.
 -   **Time Analysis** → Explore monthly performance over the selected
     years.
 
 ## 🎯 Objectives
 
--   Monitor overall financial performance.\
--   Highlight top-performing products, markets, and segments.\
+-   Monitor overall financial performance.
+-   Highlight top-performing products, markets, and segments.
 -   Support business decisions with interactive visual insights.
 
 ## 🛠️ Tools Used
 
--   **Power BI Desktop** for modeling and visualization.\
+-   **Power BI Desktop** for modeling and visualization.
 -   **DAX** for custom measures and KPIs.
 
 ## 📂 File
 
--   `Desafio_PowerBI_financial.pbix` → Power BI dashboard.\
+-   `Desafio_PowerBI_financial.pbix` → Power BI dashboard.
 -   `Desafio_PowerBI_financial.pdf` → Exported version for quick view.
